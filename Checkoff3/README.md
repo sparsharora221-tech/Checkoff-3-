@@ -1,6 +1,6 @@
 # COMP 211 Checkoff 3 — Run-Length Encoding (RLE)
 
-**Presenter:** [ADD YOUR NAME]  
+**Presenter:** Sparsh Arora  
 **Topic:** Data Compression — Run-Length Encoding (RLE)
 
 > This is a starter portfolio package. Personalize the slides, README, and reflection to reflect what you actually studied, demonstrated, and presented. Confirm RLE is your approved, unique subtopic.
